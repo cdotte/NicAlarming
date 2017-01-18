@@ -1,0 +1,463 @@
+2017/01/16 11:54:58 [I] Completed / 302 Found in 205.551203ms
+2017/01/16 11:56:40 [I] Completed //localhost:9090/render 500 Internal Server Error in 334.510881ms
+2017/01/16 11:56:40 [I] Completed //localhost:9090/render 500 Internal Server Error in 417.628727ms
+2017/01/16 11:56:40 [I] Completed //localhost:9090/render 500 Internal Server Error in 429.242664ms
+2017/01/16 11:56:40 [I] Completed //localhost:9090/render 500 Internal Server Error in 445.866662ms
+2017/01/16 11:56:40 [I] Completed //localhost:9090/render 500 Internal Server Error in 425.199265ms
+2017/01/16 11:56:40 [I] Completed //localhost:9090/render 500 Internal Server Error in 428.016271ms
+2017/01/16 11:56:40 [I] Completed //localhost:9090/render 500 Internal Server Error in 109.757907ms
+2017/01/16 11:56:40 [I] Completed //localhost:9090/render 500 Internal Server Error in 16.034603ms
+2017/01/16 11:56:40 [I] Completed //localhost:9090/render 500 Internal Server Error in 6.243072ms
+2017/01/16 11:56:40 [I] Completed //localhost:9090/render 500 Internal Server Error in 6.945305ms
+2017/01/16 11:56:40 [I] Completed //localhost:9090/render 500 Internal Server Error in 13.382612ms
+2017/01/16 11:56:40 [I] Completed //localhost:9090/render 500 Internal Server Error in 40.55803ms
+2017/01/16 11:56:40 [I] Completed //localhost:9090/render 500 Internal Server Error in 42.961848ms
+2017/01/16 11:56:40 [I] Completed //localhost:9090/render 500 Internal Server Error in 34.225254ms
+2017/01/16 11:56:48 [I] Completed //localhost:9090/render 500 Internal Server Error in 10.847861ms
+2017/01/16 11:56:48 [I] Completed //localhost:9090/render 500 Internal Server Error in 14.090824ms
+2017/01/16 11:56:48 [I] Completed //localhost:9090/render 500 Internal Server Error in 13.392391ms
+2017/01/16 11:56:48 [I] Completed //localhost:9090/render 500 Internal Server Error in 11.636987ms
+2017/01/16 11:56:48 [I] Completed //localhost:9090/render 500 Internal Server Error in 10.54163ms
+2017/01/16 11:56:48 [I] Completed //localhost:9090/render 500 Internal Server Error in 10.421784ms
+2017/01/16 11:56:48 [I] Completed //localhost:9090/render 500 Internal Server Error in 28.124853ms
+2017/01/16 11:56:48 [I] Completed /api/datasources/proxy/1/render 401 Unauthorized in 26.195818ms
+2017/01/16 11:56:48 [I] Completed /api/datasources/proxy/1/render 401 Unauthorized in 37.911633ms
+2017/01/16 11:56:48 [I] Completed //localhost:9090/render 500 Internal Server Error in 54.443953ms
+2017/01/16 11:56:48 [I] Completed /api/datasources/proxy/1/render 401 Unauthorized in 38.576279ms
+2017/01/16 11:56:48 [I] Completed /api/datasources/proxy/1/render 401 Unauthorized in 40.548795ms
+2017/01/16 11:56:48 [I] Completed /api/datasources/proxy/1/render 401 Unauthorized in 14.01894ms
+2017/01/16 11:56:48 [I] Completed /api/datasources/proxy/1/render 401 Unauthorized in 14.314494ms
+2017/01/16 11:56:49 [I] Completed //localhost:9090/render 500 Internal Server Error in 5.924697ms
+2017/01/16 11:56:49 [I] Completed //localhost:9090/render 500 Internal Server Error in 8.781684ms
+2017/01/16 11:56:49 [I] Completed //localhost:9090/render 500 Internal Server Error in 8.113193ms
+2017/01/16 11:56:49 [I] Completed //localhost:9090/render 500 Internal Server Error in 8.848834ms
+2017/01/16 11:56:49 [I] Completed //localhost:9090/render 500 Internal Server Error in 4.168505ms
+2017/01/16 11:56:49 [I] Completed //localhost:9090/render 500 Internal Server Error in 6.678825ms
+2017/01/16 11:56:58 [I] Completed //localhost:9090/render 500 Internal Server Error in 2.257798ms
+2017/01/16 11:56:58 [I] Completed //localhost:9090/render 500 Internal Server Error in 5.865075ms
+2017/01/16 11:56:58 [I] Completed //localhost:9090/render 500 Internal Server Error in 4.45185ms
+2017/01/16 11:56:58 [I] Completed //localhost:9090/render 500 Internal Server Error in 5.632725ms
+2017/01/16 11:56:58 [I] Completed //localhost:9090/render 500 Internal Server Error in 5.795558ms
+2017/01/16 11:56:58 [I] Completed //localhost:9090/render 500 Internal Server Error in 6.82255ms
+2017/01/16 11:56:59 [I] Completed //localhost:9090/render 500 Internal Server Error in 4.932223ms
+2017/01/16 11:56:59 [I] Completed //localhost:9090/render 500 Internal Server Error in 4.528617ms
+2017/01/16 11:56:59 [I] Completed //localhost:9090/render 500 Internal Server Error in 6.083286ms
+2017/01/16 11:56:59 [I] Completed //localhost:9090/render 500 Internal Server Error in 4.222992ms
+2017/01/16 11:56:59 [I] Completed //localhost:9090/render 500 Internal Server Error in 5.979842ms
+2017/01/16 11:56:59 [I] Completed //localhost:9090/render 500 Internal Server Error in 6.189514ms
+2017/01/16 11:56:59 [I] Completed //localhost:9090/render 500 Internal Server Error in 5.953ms
+2017/01/16 11:56:59 [I] Completed //localhost:9090/render 500 Internal Server Error in 4.828542ms
+2017/01/16 11:57:09 [I] Completed //localhost:9090/render 500 Internal Server Error in 13.434854ms
+2017/01/16 11:57:09 [I] Completed //localhost:9090/render 500 Internal Server Error in 13.995514ms
+2017/01/16 11:57:09 [I] Completed //localhost:9090/render 500 Internal Server Error in 14.39576ms
+2017/01/16 11:57:09 [I] Completed //localhost:9090/render 500 Internal Server Error in 12.296645ms
+2017/01/16 11:57:09 [I] Completed //localhost:9090/render 500 Internal Server Error in 11.481991ms
+2017/01/16 11:57:09 [I] Completed //localhost:9090/render 500 Internal Server Error in 22.055777ms
+2017/01/16 11:57:09 [I] Completed //localhost:9090/render 500 Internal Server Error in 16.311911ms
+2017/01/16 11:57:09 [I] Completed //localhost:9090/render 500 Internal Server Error in 11.822849ms
+2017/01/16 11:57:09 [I] Completed //localhost:9090/render 500 Internal Server Error in 10.779292ms
+2017/01/16 11:57:09 [I] Completed //localhost:9090/render 500 Internal Server Error in 10.737908ms
+2017/01/16 11:57:09 [I] Completed //localhost:9090/render 500 Internal Server Error in 12.706669ms
+2017/01/16 11:57:09 [I] Completed //localhost:9090/render 500 Internal Server Error in 4.998542ms
+2017/01/16 11:57:09 [I] Completed //localhost:9090/render 500 Internal Server Error in 11.545888ms
+2017/01/16 11:57:09 [I] Completed //localhost:9090/render 500 Internal Server Error in 18.265306ms
+2017/01/16 11:57:17 [I] Completed //localhost:9090/render 500 Internal Server Error in 17.441342ms
+2017/01/16 11:57:17 [I] Completed //localhost:9090/render 500 Internal Server Error in 177.628087ms
+2017/01/16 11:57:17 [I] Completed //localhost:9090/render 500 Internal Server Error in 167.564805ms
+2017/01/16 11:57:17 [I] Completed //localhost:9090/render 500 Internal Server Error in 173.229828ms
+2017/01/16 11:57:17 [I] Completed //localhost:9090/render 500 Internal Server Error in 8.112809ms
+2017/01/16 11:57:17 [I] Completed //localhost:9090/render 500 Internal Server Error in 181.059867ms
+2017/01/16 11:57:17 [I] Completed //localhost:9090/render 500 Internal Server Error in 20.224029ms
+2017/01/16 11:57:17 [I] Completed //localhost:9090/render 500 Internal Server Error in 23.86749ms
+2017/01/16 11:57:17 [I] Completed //localhost:9090/render 500 Internal Server Error in 158.346954ms
+2017/01/16 11:57:17 [I] Completed //localhost:9090/render 500 Internal Server Error in 177.983715ms
+2017/01/16 11:57:17 [I] Completed //localhost:9090/render 500 Internal Server Error in 7.854132ms
+2017/01/16 11:57:17 [I] Completed //localhost:9090/render 500 Internal Server Error in 8.376931ms
+2017/01/16 11:57:17 [I] Completed //localhost:9090/render 500 Internal Server Error in 5.010976ms
+2017/01/16 11:57:17 [I] Completed //localhost:9090/render 500 Internal Server Error in 24.534781ms
+2017/01/16 11:57:30 [I] Completed //localhost:9090/render 500 Internal Server Error in 5.328872ms
+2017/01/16 11:57:30 [I] Completed //localhost:9090/render 500 Internal Server Error in 5.744325ms
+2017/01/16 11:57:30 [I] Completed //localhost:9090/render 500 Internal Server Error in 5.058345ms
+2017/01/16 11:57:30 [I] Completed //localhost:9090/render 500 Internal Server Error in 10.036842ms
+2017/01/16 11:57:30 [I] Completed //localhost:9090/render 500 Internal Server Error in 7.845623ms
+2017/01/16 11:57:30 [I] Completed //localhost:9090/render 500 Internal Server Error in 5.282531ms
+2017/01/16 11:57:30 [I] Completed //localhost:9090/render 500 Internal Server Error in 7.08848ms
+2017/01/16 11:57:30 [I] Completed //localhost:9090/render 500 Internal Server Error in 6.017058ms
+2017/01/16 11:57:30 [I] Completed //localhost:9090/render 500 Internal Server Error in 4.980702ms
+2017/01/16 11:57:30 [I] Completed //localhost:9090/render 500 Internal Server Error in 10.220536ms
+2017/01/16 11:57:30 [I] Completed //localhost:9090/render 500 Internal Server Error in 5.463684ms
+2017/01/16 11:57:30 [I] Completed //localhost:9090/render 500 Internal Server Error in 7.523993ms
+2017/01/16 11:57:30 [I] Completed //localhost:9090/render 500 Internal Server Error in 7.768908ms
+2017/01/16 11:57:30 [I] Completed //localhost:9090/render 500 Internal Server Error in 5.143463ms
+2017/01/16 11:57:30 [I] Completed //localhost:9090/render 500 Internal Server Error in 5.076584ms
+2017/01/16 11:57:39 [I] Completed //localhost:9090/render 500 Internal Server Error in 13.25851ms
+2017/01/16 11:57:39 [I] Completed //localhost:9090/render 500 Internal Server Error in 13.891118ms
+2017/01/16 11:57:39 [I] Completed //localhost:9090/render 500 Internal Server Error in 7.291489ms
+2017/01/16 11:57:39 [I] Completed //localhost:9090/render 500 Internal Server Error in 13.458555ms
+2017/01/16 11:57:39 [I] Completed //localhost:9090/render 500 Internal Server Error in 16.224558ms
+2017/01/16 11:57:39 [I] Completed //localhost:9090/render 500 Internal Server Error in 13.272242ms
+2017/01/16 11:57:39 [I] Completed //localhost:9090/render 500 Internal Server Error in 6.913271ms
+2017/01/16 11:57:39 [I] Completed //localhost:9090/render 500 Internal Server Error in 5.35295ms
+2017/01/16 11:57:39 [I] Completed //localhost:9090/render 500 Internal Server Error in 2.2381ms
+2017/01/16 11:57:39 [I] Completed //localhost:9090/render 500 Internal Server Error in 3.88885ms
+2017/01/16 11:57:39 [I] Completed //localhost:9090/render 500 Internal Server Error in 7.142475ms
+2017/01/16 11:57:39 [I] Completed //localhost:9090/render 500 Internal Server Error in 3.458665ms
+2017/01/16 11:57:39 [I] Completed //localhost:9090/render 500 Internal Server Error in 7.359915ms
+2017/01/16 11:57:39 [I] Completed //localhost:9090/render 500 Internal Server Error in 10.099248ms
+2017/01/16 11:57:39 [I] Completed //localhost:9090/render 500 Internal Server Error in 6.394288ms
+2017/01/16 11:57:49 [I] Completed //localhost:9090/render 500 Internal Server Error in 6.972166ms
+2017/01/16 11:57:49 [I] Completed //localhost:9090/render 500 Internal Server Error in 10.222529ms
+2017/01/16 11:57:49 [I] Completed //localhost:9090/render 500 Internal Server Error in 9.407643ms
+2017/01/16 11:57:49 [I] Completed //localhost:9090/render 500 Internal Server Error in 14.411286ms
+2017/01/16 11:57:49 [I] Completed //localhost:9090/render 500 Internal Server Error in 9.348751ms
+2017/01/16 11:57:49 [I] Completed //localhost:9090/render 500 Internal Server Error in 8.467839ms
+2017/01/16 11:57:49 [I] Completed //localhost:9090/render 500 Internal Server Error in 6.850458ms
+2017/01/16 11:57:49 [I] Completed //localhost:9090/render 500 Internal Server Error in 9.052742ms
+2017/01/16 11:57:49 [I] Completed //localhost:9090/render 500 Internal Server Error in 4.978523ms
+2017/01/16 11:57:49 [I] Completed //localhost:9090/render 500 Internal Server Error in 12.978287ms
+2017/01/16 11:57:49 [I] Completed //localhost:9090/render 500 Internal Server Error in 5.952887ms
+2017/01/16 11:57:49 [I] Completed //localhost:9090/render 500 Internal Server Error in 5.674986ms
+2017/01/16 11:57:49 [I] Completed //localhost:9090/render 500 Internal Server Error in 5.700492ms
+2017/01/16 11:57:49 [I] Completed //localhost:9090/render 500 Internal Server Error in 7.541908ms
+2017/01/16 11:57:49 [I] Completed //localhost:9090/render 500 Internal Server Error in 9.983656ms
+2017/01/16 11:58:16 [I] Completed /render 404 Not Found in 2.562042ms
+2017/01/16 11:58:16 [I] Completed /render 404 Not Found in 2.565988ms
+2017/01/16 11:58:16 [I] Completed /render 404 Not Found in 5.979075ms
+2017/01/16 11:58:17 [I] Completed /render 404 Not Found in 2.553408ms
+2017/01/16 11:58:17 [I] Completed /render 404 Not Found in 2.499753ms
+2017/01/16 11:58:17 [I] Completed /render 404 Not Found in 4.130631ms
+2017/01/16 11:58:17 [I] Completed /render 404 Not Found in 2.195064ms
+2017/01/16 11:58:17 [I] Completed /render 404 Not Found in 2.942812ms
+2017/01/16 11:58:17 [I] Completed /render 404 Not Found in 11.657541ms
+2017/01/16 11:58:17 [I] Completed /render 404 Not Found in 3.296773ms
+2017/01/16 11:58:17 [I] Completed /render 404 Not Found in 4.274398ms
+2017/01/16 11:58:17 [I] Completed /render 404 Not Found in 5.987367ms
+2017/01/16 11:58:17 [I] Completed /render 404 Not Found in 2.709352ms
+2017/01/16 11:58:17 [I] Completed /render 404 Not Found in 2.894619ms
+2017/01/16 11:58:25 [I] Completed /render 404 Not Found in 3.746589ms
+2017/01/16 11:58:25 [I] Completed /render 404 Not Found in 11.843804ms
+2017/01/16 11:58:25 [I] Completed /render 404 Not Found in 10.404474ms
+2017/01/16 11:58:25 [I] Completed /render 404 Not Found in 11.724852ms
+2017/01/16 11:58:25 [I] Completed /render 404 Not Found in 6.022182ms
+2017/01/16 11:58:25 [I] Completed /render 404 Not Found in 13.734985ms
+2017/01/16 11:58:25 [I] Completed /render 404 Not Found in 34.796361ms
+2017/01/16 11:58:25 [I] Completed /render 404 Not Found in 21.049123ms
+2017/01/16 11:58:25 [I] Completed /render 404 Not Found in 4.882423ms
+2017/01/16 11:58:25 [I] Completed /render 404 Not Found in 26.857867ms
+2017/01/16 11:58:25 [I] Completed /render 404 Not Found in 28.500371ms
+2017/01/16 11:58:25 [I] Completed /render 404 Not Found in 12.997249ms
+2017/01/16 11:58:25 [I] Completed /render 404 Not Found in 6.530195ms
+2017/01/16 11:58:25 [I] Completed /render 404 Not Found in 30.397072ms
+2017/01/16 11:58:45 [I] Completed /render 404 Not Found in 2.243494ms
+2017/01/16 11:58:45 [I] Completed /render 404 Not Found in 1.979588ms
+2017/01/16 11:58:45 [I] Completed /render 404 Not Found in 2.313086ms
+2017/01/16 11:58:45 [I] Completed /render 404 Not Found in 1.488479ms
+2017/01/16 11:58:45 [I] Completed /render 404 Not Found in 1.736851ms
+2017/01/16 11:58:45 [I] Completed /render 404 Not Found in 1.69379ms
+2017/01/16 11:58:45 [I] Completed /render 404 Not Found in 1.743555ms
+2017/01/16 11:58:46 [I] Completed /render 404 Not Found in 1.52973ms
+2017/01/16 11:58:46 [I] Completed /render 404 Not Found in 2.590951ms
+2017/01/16 11:58:46 [I] Completed /render 404 Not Found in 1.702702ms
+2017/01/16 11:58:46 [I] Completed /render 404 Not Found in 5.350482ms
+2017/01/16 11:58:46 [I] Completed /render 404 Not Found in 1.732001ms
+2017/01/16 11:58:46 [I] Completed /render 404 Not Found in 1.758228ms
+2017/01/16 11:58:46 [I] Completed /render 404 Not Found in 5.885255ms
+2017/01/16 11:58:46 [I] Completed /render 404 Not Found in 1.823377ms
+2017/01/16 11:58:55 [I] Completed /render 404 Not Found in 2.128237ms
+2017/01/16 11:58:55 [I] Completed /render 404 Not Found in 1.350645ms
+2017/01/16 11:58:55 [I] Completed /render 404 Not Found in 1.246897ms
+2017/01/16 11:58:55 [I] Completed /render 404 Not Found in 1.527127ms
+2017/01/16 11:58:55 [I] Completed /render 404 Not Found in 1.340596ms
+2017/01/16 11:58:55 [I] Completed /render 404 Not Found in 2.165645ms
+2017/01/16 11:58:55 [I] Completed /render 404 Not Found in 7.266648ms
+2017/01/16 11:58:55 [I] Completed /render 404 Not Found in 11.205904ms
+2017/01/16 11:58:55 [I] Completed /render 404 Not Found in 10.300259ms
+2017/01/16 11:58:55 [I] Completed /render 404 Not Found in 8.157684ms
+2017/01/16 11:58:55 [I] Completed /render 404 Not Found in 7.54318ms
+2017/01/16 11:58:55 [I] Completed /render 404 Not Found in 22.305538ms
+2017/01/16 11:58:55 [I] Completed /render 404 Not Found in 13.786335ms
+2017/01/16 11:58:55 [I] Completed /render 404 Not Found in 1.674953ms
+2017/01/16 11:58:55 [I] Completed /render 404 Not Found in 3.366192ms
+2017/01/16 11:59:05 [I] Completed /render 404 Not Found in 5.776965ms
+2017/01/16 11:59:05 [I] Completed /render 404 Not Found in 9.100027ms
+2017/01/16 11:59:05 [I] Completed /render 404 Not Found in 7.895843ms
+2017/01/16 11:59:05 [I] Completed /render 404 Not Found in 10.703071ms
+2017/01/16 11:59:05 [I] Completed /render 404 Not Found in 14.847465ms
+2017/01/16 11:59:05 [I] Completed /render 404 Not Found in 8.857284ms
+2017/01/16 11:59:05 [I] Completed /render 404 Not Found in 15.800327ms
+2017/01/16 11:59:05 [I] Completed /api/datasources/proxy/1/render 401 Unauthorized in 1.501337ms
+2017/01/16 11:59:05 [I] Completed /render 404 Not Found in 15.256921ms
+2017/01/16 11:59:05 [I] Completed /render 404 Not Found in 8.938128ms
+2017/01/16 11:59:05 [I] Completed /render 404 Not Found in 11.204459ms
+2017/01/16 11:59:05 [I] Completed /render 404 Not Found in 3.188935ms
+2017/01/16 11:59:05 [I] Completed /render 404 Not Found in 2.937202ms
+2017/01/16 11:59:05 [I] Completed /render 404 Not Found in 2.311258ms
+2017/01/16 11:59:05 [I] Completed /render 404 Not Found in 2.927771ms
+2017/01/16 11:59:06 [I] Completed /render 404 Not Found in 2.888343ms
+2017/01/16 11:59:06 [I] Completed /render 404 Not Found in 1.656439ms
+2017/01/16 11:59:06 [I] Completed /render 404 Not Found in 1.64913ms
+2017/01/16 11:59:06 [I] Completed /render 404 Not Found in 5.017789ms
+2017/01/16 11:59:06 [I] Completed /render 404 Not Found in 9.25101ms
+2017/01/16 11:59:06 [I] Completed /render 404 Not Found in 2.135803ms
+2017/01/16 11:59:06 [I] Completed /render 404 Not Found in 13.230505ms
+2017/01/16 11:59:06 [I] Completed /render 404 Not Found in 2.451063ms
+2017/01/16 11:59:06 [I] Completed /render 404 Not Found in 1.652887ms
+2017/01/16 11:59:06 [I] Completed /render 404 Not Found in 1.934217ms
+2017/01/16 11:59:06 [I] Completed /render 404 Not Found in 2.706583ms
+2017/01/16 11:59:06 [I] Completed /render 404 Not Found in 1.706288ms
+2017/01/16 11:59:06 [I] Completed /render 404 Not Found in 2.217644ms
+2017/01/16 11:59:06 [I] Completed /render 404 Not Found in 2.148339ms
+2017/01/16 11:59:07 [I] Completed /render 404 Not Found in 3.81851ms
+2017/01/16 11:59:07 [I] Completed /render 404 Not Found in 1.656792ms
+2017/01/16 11:59:15 [I] Completed /render 404 Not Found in 1.54455ms
+2017/01/16 11:59:15 [I] Completed /render 404 Not Found in 1.615349ms
+2017/01/16 11:59:15 [I] Completed /render 404 Not Found in 2.35842ms
+2017/01/16 11:59:15 [I] Completed /render 404 Not Found in 3.195771ms
+2017/01/16 11:59:15 [I] Completed /render 404 Not Found in 2.593772ms
+2017/01/16 11:59:15 [I] Completed /render 404 Not Found in 19.480086ms
+2017/01/16 11:59:15 [I] Completed /render 404 Not Found in 18.08717ms
+2017/01/16 11:59:16 [I] Completed /render 404 Not Found in 33.449106ms
+2017/01/16 11:59:16 [I] Completed /render 404 Not Found in 3.091958ms
+2017/01/16 11:59:16 [I] Completed /render 404 Not Found in 5.052987ms
+2017/01/16 11:59:16 [I] Completed /render 404 Not Found in 2.346979ms
+2017/01/16 11:59:16 [I] Completed /render 404 Not Found in 3.660891ms
+2017/01/16 11:59:16 [I] Completed /render 404 Not Found in 2.343657ms
+2017/01/16 11:59:16 [I] Completed /render 404 Not Found in 2.418536ms
+2017/01/16 11:59:16 [I] Completed /render 404 Not Found in 2.132831ms
+2017/01/16 11:59:25 [I] Completed /render 404 Not Found in 2.291278ms
+2017/01/16 11:59:25 [I] Completed /render 404 Not Found in 2.077381ms
+2017/01/16 11:59:25 [I] Completed /render 404 Not Found in 2.010324ms
+2017/01/16 11:59:25 [I] Completed /render 404 Not Found in 1.37288ms
+2017/01/16 11:59:25 [I] Completed /render 404 Not Found in 1.939322ms
+2017/01/16 11:59:25 [I] Completed /render 404 Not Found in 1.514106ms
+2017/01/16 11:59:26 [I] Completed /render 404 Not Found in 39.176535ms
+2017/01/16 11:59:26 [I] Completed /render 404 Not Found in 28.606727ms
+2017/01/16 11:59:26 [I] Completed /render 404 Not Found in 30.446932ms
+2017/01/16 11:59:26 [I] Completed /render 404 Not Found in 35.049155ms
+2017/01/16 11:59:26 [I] Completed /render 404 Not Found in 17.57618ms
+2017/01/16 11:59:26 [I] Completed /render 404 Not Found in 15.16073ms
+2017/01/16 11:59:26 [I] Completed /render 404 Not Found in 12.031546ms
+2017/01/16 11:59:26 [I] Completed /render 404 Not Found in 13.289755ms
+2017/01/16 11:59:26 [I] Completed /render 404 Not Found in 45.389488ms
+2017/01/16 11:59:46 [I] Completed /render 404 Not Found in 1.606572ms
+2017/01/16 11:59:46 [I] Completed /render 404 Not Found in 2.363511ms
+2017/01/16 11:59:46 [I] Completed /render 404 Not Found in 1.625345ms
+2017/01/16 11:59:46 [I] Completed /render 404 Not Found in 1.751738ms
+2017/01/16 11:59:46 [I] Completed /render 404 Not Found in 2.468376ms
+2017/01/16 11:59:46 [I] Completed /render 404 Not Found in 2.679695ms
+2017/01/16 11:59:46 [I] Completed /api/metrics/test 401 Unauthorized in 3.96906ms
+2017/01/16 11:59:46 [I] Completed /render 404 Not Found in 4.224542ms
+2017/01/16 11:59:46 [I] Completed /render 404 Not Found in 1.706231ms
+2017/01/16 11:59:46 [I] Completed /render 404 Not Found in 1.78808ms
+2017/01/16 11:59:46 [I] Completed /render 404 Not Found in 1.560975ms
+2017/01/16 11:59:55 [I] Completed /render 404 Not Found in 1.728096ms
+2017/01/16 11:59:55 [I] Completed /render 404 Not Found in 5.883611ms
+2017/01/16 11:59:55 [I] Completed /render 404 Not Found in 19.815096ms
+2017/01/16 11:59:55 [I] Completed /render 404 Not Found in 32.685438ms
+2017/01/16 11:59:55 [I] Completed /render 404 Not Found in 5.188657ms
+2017/01/16 11:59:55 [I] Completed /render 404 Not Found in 38.740007ms
+2017/01/16 11:59:55 [I] Completed /render 404 Not Found in 37.805661ms
+2017/01/16 11:59:55 [I] Completed /render 404 Not Found in 10.662824ms
+2017/01/16 11:59:55 [I] Completed /render 404 Not Found in 14.932466ms
+2017/01/16 11:59:55 [I] Completed /render 404 Not Found in 1.706961ms
+2017/01/16 12:00:05 [I] Completed /render 404 Not Found in 2.476642ms
+2017/01/16 12:00:05 [I] Completed /render 404 Not Found in 2.622301ms
+2017/01/16 12:00:05 [I] Completed /render 404 Not Found in 2.137361ms
+2017/01/16 12:00:05 [I] Completed /render 404 Not Found in 23.440628ms
+2017/01/16 12:00:05 [I] Completed /api/datasources/proxy/1/render 401 Unauthorized in 769.873µs
+2017/01/16 12:00:05 [I] Completed /render 404 Not Found in 6.482506ms
+2017/01/16 12:00:05 [I] Completed /render 404 Not Found in 2.344821ms
+2017/01/16 12:00:05 [I] Completed /render 404 Not Found in 1.681725ms
+2017/01/16 12:00:05 [I] Completed /render 404 Not Found in 8.218785ms
+2017/01/16 12:00:05 [I] Completed /render 404 Not Found in 25.314289ms
+2017/01/16 12:00:07 [I] Completed /render 404 Not Found in 1.933156ms
+2017/01/16 12:00:09 [I] Completed /render 404 Not Found in 2.093739ms
+2017/01/16 12:00:09 [I] Completed /render 404 Not Found in 2.55916ms
+2017/01/16 12:00:09 [I] Completed /render 404 Not Found in 2.875033ms
+2017/01/16 12:00:09 [I] Completed /render 404 Not Found in 1.916471ms
+2017/01/16 12:00:09 [I] Completed /render 404 Not Found in 4.082902ms
+2017/01/16 12:00:09 [I] Completed /render 404 Not Found in 2.068498ms
+2017/01/16 12:00:09 [I] Completed /render 404 Not Found in 1.635548ms
+2017/01/16 12:00:09 [I] Completed /render 404 Not Found in 1.52958ms
+2017/01/16 12:00:09 [I] Completed /render 404 Not Found in 1.54722ms
+2017/01/16 12:00:09 [I] Completed /render 404 Not Found in 2.961637ms
+2017/01/16 12:00:20 [I] Completed /render 404 Not Found in 1.916162ms
+2017/01/16 12:00:20 [I] Completed /render 404 Not Found in 2.33344ms
+2017/01/16 12:00:20 [I] Completed /render 404 Not Found in 3.204465ms
+2017/01/16 12:00:29 [I] Completed /render 404 Not Found in 1.74336ms
+2017/01/16 12:00:29 [I] Completed /render 404 Not Found in 1.54242ms
+2017/01/16 12:00:29 [I] Completed /render 404 Not Found in 5.750235ms
+2017/01/16 12:00:33 [I] Completed /render 404 Not Found in 1.80437ms
+2017/01/16 12:00:33 [I] Completed /render 404 Not Found in 8.195455ms
+2017/01/16 12:00:33 [I] Completed /render 404 Not Found in 14.382769ms
+2017/01/16 12:00:42 [I] Completed /render 404 Not Found in 1.552484ms
+2017/01/16 12:00:42 [I] Completed /render 404 Not Found in 2.117941ms
+2017/01/16 12:00:42 [I] Completed /render 404 Not Found in 20.80283ms
+2017/01/16 12:03:01 [I] Completed /render 404 Not Found in 2.150791ms
+2017/01/16 12:03:24 [I] Completed /metrics/find 404 Not Found in 1.721369ms
+2017/01/16 12:03:41 [I] Completed /render 404 Not Found in 1.70195ms
+2017/01/16 12:03:48 [I] Completed /render 404 Not Found in 2.597139ms
+2017/01/16 12:03:48 [I] Completed /render 404 Not Found in 2.172747ms
+2017/01/16 12:03:48 [I] Completed /render 404 Not Found in 1.518184ms
+2017/01/16 12:03:48 [I] Completed /render 404 Not Found in 1.591276ms
+2017/01/16 12:03:48 [I] Completed /render 404 Not Found in 2.295916ms
+2017/01/16 12:03:48 [I] Completed /render 404 Not Found in 1.7562ms
+2017/01/16 12:03:48 [I] Completed /render 404 Not Found in 2.663214ms
+2017/01/16 12:03:48 [I] Completed /render 404 Not Found in 43.074682ms
+2017/01/16 12:03:48 [I] Completed /render 404 Not Found in 1.965104ms
+2017/01/16 12:03:48 [I] Completed /render 404 Not Found in 1.858695ms
+2017/01/16 12:03:48 [I] Completed /render 404 Not Found in 2.061666ms
+2017/01/16 12:03:48 [I] Completed /render 404 Not Found in 2.828808ms
+2017/01/16 12:03:48 [I] Completed /render 404 Not Found in 1.459526ms
+2017/01/16 12:03:48 [I] Completed /render 404 Not Found in 1.556487ms
+2017/01/16 12:03:55 [I] Completed /metrics/find 404 Not Found in 1.534004ms
+2017/01/16 12:03:57 [I] Completed /render 404 Not Found in 1.676093ms
+2017/01/16 12:04:07 [I] Completed /render 404 Not Found in 5.954712ms
+2017/01/16 12:04:10 [I] Completed /render 404 Not Found in 12.418527ms
+2017/01/16 12:04:10 [I] Completed /render 404 Not Found in 3.803047ms
+2017/01/16 12:04:10 [I] Completed /render 404 Not Found in 22.366274ms
+2017/01/16 12:04:10 [I] Completed /render 404 Not Found in 21.672351ms
+2017/01/16 12:04:10 [I] Completed /render 404 Not Found in 24.024232ms
+2017/01/16 12:04:10 [I] Completed /render 404 Not Found in 20.177172ms
+2017/01/16 12:04:10 [I] Completed /render 404 Not Found in 7.145139ms
+2017/01/16 12:04:10 [I] Completed /render 404 Not Found in 5.824786ms
+2017/01/16 12:04:10 [I] Completed /render 404 Not Found in 7.354002ms
+2017/01/16 12:04:10 [I] Completed /render 404 Not Found in 5.947003ms
+2017/01/16 12:04:10 [I] Completed /render 404 Not Found in 5.403175ms
+2017/01/16 12:04:10 [I] Completed /render 404 Not Found in 4.489547ms
+2017/01/16 12:04:10 [I] Completed /render 404 Not Found in 2.548017ms
+2017/01/16 12:04:10 [I] Completed /render 404 Not Found in 1.485582ms
+2017/01/16 12:04:18 [I] Completed /render 404 Not Found in 2.054123ms
+2017/01/16 12:04:19 [I] Completed /metrics/find 404 Not Found in 2.012585ms
+2017/01/16 12:04:28 [I] Completed /render 404 Not Found in 1.774379ms
+2017/01/16 12:04:38 [I] Completed /render 404 Not Found in 1.774085ms
+2017/01/16 12:04:43 [I] Completed /render 404 Not Found in 2.430897ms
+2017/01/16 12:04:43 [I] Completed /render 404 Not Found in 3.343122ms
+2017/01/16 12:04:43 [I] Completed /render 404 Not Found in 2.215952ms
+2017/01/16 12:04:43 [I] Completed /render 404 Not Found in 8.988503ms
+2017/01/16 12:04:43 [I] Completed /render 404 Not Found in 14.242814ms
+2017/01/16 12:04:43 [I] Completed /render 404 Not Found in 16.031428ms
+2017/01/16 12:04:43 [I] Completed /render 404 Not Found in 2.038574ms
+2017/01/16 12:04:43 [I] Completed /render 404 Not Found in 2.994876ms
+2017/01/16 12:04:43 [I] Completed /render 404 Not Found in 1.616214ms
+2017/01/16 12:04:43 [I] Completed /render 404 Not Found in 4.246671ms
+2017/01/16 12:04:43 [I] Completed /render 404 Not Found in 1.464285ms
+2017/01/16 12:04:43 [I] Completed /render 404 Not Found in 1.393613ms
+2017/01/16 12:04:43 [I] Completed /render 404 Not Found in 1.690073ms
+2017/01/16 12:04:43 [I] Completed /render 404 Not Found in 3.050134ms
+2017/01/16 12:04:48 [I] Completed /render 404 Not Found in 3.274192ms
+2017/01/16 12:04:48 [I] Completed /render 404 Not Found in 5.341412ms
+2017/01/16 12:04:48 [I] Completed /render 404 Not Found in 5.047224ms
+2017/01/16 12:04:48 [I] Completed /render 404 Not Found in 6.813194ms
+2017/01/16 12:04:48 [I] Completed /render 404 Not Found in 8.357653ms
+2017/01/16 12:04:48 [I] Completed /render 404 Not Found in 13.887254ms
+2017/01/16 12:04:48 [I] Completed /render 404 Not Found in 14.39421ms
+2017/01/16 12:04:48 [I] Completed /render 404 Not Found in 15.329673ms
+2017/01/16 12:04:48 [I] Completed /render 404 Not Found in 9.194108ms
+2017/01/16 12:04:48 [I] Completed /render 404 Not Found in 1.762505ms
+2017/01/16 12:04:48 [I] Completed /render 404 Not Found in 2.340588ms
+2017/01/16 12:04:48 [I] Completed /render 404 Not Found in 1.379309ms
+2017/01/16 12:04:48 [I] Completed /render 404 Not Found in 1.418778ms
+2017/01/16 12:04:48 [I] Completed /render 404 Not Found in 1.661029ms
+2017/01/16 12:04:58 [I] Completed /render 404 Not Found in 3.432533ms
+2017/01/16 12:04:58 [I] Completed /render 404 Not Found in 2.964278ms
+2017/01/16 12:04:58 [I] Completed /render 404 Not Found in 2.231418ms
+2017/01/16 12:04:58 [I] Completed /render 404 Not Found in 1.895441ms
+2017/01/16 12:04:58 [I] Completed /render 404 Not Found in 1.584345ms
+2017/01/16 12:04:58 [I] Completed /render 404 Not Found in 3.336463ms
+2017/01/16 12:04:58 [I] Completed /render 404 Not Found in 2.03204ms
+2017/01/16 12:04:58 [I] Completed /render 404 Not Found in 2.179703ms
+2017/01/16 12:04:58 [I] Completed /render 404 Not Found in 7.492045ms
+2017/01/16 12:04:58 [I] Completed /render 404 Not Found in 5.122335ms
+2017/01/16 12:05:07 [I] Completed /render 404 Not Found in 1.716099ms
+2017/01/16 12:05:07 [I] Completed /render 404 Not Found in 8.492228ms
+2017/01/16 12:05:07 [I] Completed /render 404 Not Found in 1.606945ms
+2017/01/16 12:05:07 [I] Completed /render 404 Not Found in 4.085542ms
+2017/01/16 12:05:07 [I] Completed /render 404 Not Found in 1.889259ms
+2017/01/16 12:05:07 [I] Completed /render 404 Not Found in 15.188969ms
+2017/01/16 12:05:07 [I] Completed /render 404 Not Found in 2.110096ms
+2017/01/16 12:05:07 [I] Completed /render 404 Not Found in 1.857867ms
+2017/01/16 12:05:07 [I] Completed /render 404 Not Found in 2.96075ms
+2017/01/16 12:05:07 [I] Completed /render 404 Not Found in 1.352714ms
+2017/01/16 12:05:35 [I] Completed /render 404 Not Found in 2.285487ms
+2017/01/16 12:05:37 [I] Completed /render 404 Not Found in 1.988681ms
+2017/01/16 12:05:40 [I] Completed /metrics/find 404 Not Found in 2.27267ms
+2017/01/16 12:05:47 [I] Completed /render 404 Not Found in 2.289024ms
+2017/01/16 12:05:57 [I] Completed /render 404 Not Found in 1.719289ms
+2017/01/16 12:06:03 [I] Completed /render 404 Not Found in 1.90576ms
+2017/01/16 12:06:03 [I] Completed /render 404 Not Found in 1.835479ms
+2017/01/16 12:06:03 [I] Completed /render 404 Not Found in 1.90655ms
+2017/01/16 12:06:13 [I] Completed /render 404 Not Found in 2.980779ms
+2017/01/16 12:06:13 [I] Completed /render 404 Not Found in 3.173957ms
+2017/01/16 12:06:13 [I] Completed /render 404 Not Found in 7.776082ms
+2017/01/16 12:06:36 [I] Completed /metrics/find 404 Not Found in 1.817293ms
+2017/01/16 14:29:20 [I] Completed /api/v1/query_range 400 Bad Request in 2.292725ms
+2017/01/16 14:29:22 [I] Completed /api/v1/query_range 400 Bad Request in 2.270085ms
+2017/01/16 14:31:48 [I] Completed /api/v1/query_range 400 Bad Request in 2.514376ms
+2017/01/16 14:31:51 [I] Completed /api/v1/query_range 400 Bad Request in 2.272143ms
+2017/01/16 14:35:25 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 295.061µs
+2017/01/16 15:02:01 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 225.322µs
+2017/01/16 15:02:01 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 16.754172ms
+2017/01/16 15:02:01 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 17.640679ms
+2017/01/16 15:02:01 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 16.404857ms
+2017/01/16 15:02:01 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 18.862647ms
+2017/01/16 15:02:01 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 9.584636ms
+2017/01/16 15:02:01 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 33.176905ms
+2017/01/16 15:02:01 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 18.841267ms
+2017/01/16 15:02:01 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 1.060799ms
+2017/01/16 15:02:01 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 308.615µs
+2017/01/16 15:02:01 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 308.627µs
+2017/01/16 15:02:01 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 344.755µs
+2017/01/16 15:02:01 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 272.815µs
+2017/01/16 15:02:01 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 295.978µs
+2017/01/16 15:02:01 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 263.997µs
+2017/01/16 15:02:01 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 404.005µs
+2017/01/16 15:02:01 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 468.962µs
+2017/01/16 15:02:01 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 493.137µs
+2017/01/16 15:02:01 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 297.731µs
+2017/01/16 15:02:01 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 5.729187ms
+2017/01/16 15:02:01 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 726.48µs
+2017/01/16 15:04:39 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 508.125µs
+2017/01/16 15:04:39 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 452.499µs
+2017/01/16 15:04:39 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 526.146µs
+2017/01/16 15:06:00 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 333.096µs
+2017/01/16 15:10:00 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 2.085661ms
+2017/01/16 15:16:31 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 375.506µs
+2017/01/16 15:16:41 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 430.453µs
+2017/01/16 15:23:22 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 334.615µs
+2017/01/16 15:23:22 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 516.105µs
+2017/01/16 15:23:22 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 35.813508ms
+2017/01/16 15:32:53 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 331.49µs
+2017/01/16 15:32:53 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 311.088µs
+2017/01/16 15:32:53 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 1.16855ms
+2017/01/16 15:33:03 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 306.182µs
+2017/01/16 15:33:03 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 312.066µs
+2017/01/16 15:35:07 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 1.453205ms
+2017/01/16 15:41:38 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 1.490969ms
+2017/01/16 15:43:19 [I] Completed /api/v1/query_range 500 Internal Server Error in 26.72585ms
+2017/01/16 15:43:19 [I] Completed /api/v1/query_range 500 Internal Server Error in 24.783579ms
+2017/01/16 15:43:19 [I] Completed /api/v1/query_range 500 Internal Server Error in 27.599083ms
+2017/01/16 15:43:19 [I] Completed /api/v1/query_range 500 Internal Server Error in 50.274481ms
+2017/01/16 15:47:39 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 487.652µs
+2017/01/16 15:47:39 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 1.911166ms
+2017/01/16 15:47:39 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 485.542µs
+2017/01/16 15:49:00 [I] Completed /api/v1/query_range 503 Service Unavailable in 2.895992ms
+2017/01/16 15:49:00 [I] Completed /api/v1/query_range 503 Service Unavailable in 2.973304ms
+2017/01/16 15:49:01 [I] Completed /api/v1/query_range 503 Service Unavailable in 320.164484ms
+2017/01/16 15:49:01 [I] Completed /api/v1/query_range 503 Service Unavailable in 366.311238ms
+2017/01/16 15:51:21 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 328.585µs
+2017/01/16 15:51:21 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 496.192µs
+2017/01/16 15:51:21 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 406.845µs
+2017/01/17 16:10:12 [I] Starting Grafana
+2017/01/17 16:10:12 [I] Version: 2.5.0, Commit: v2.5.0+1-g287d8ca, Build date: 2015-10-28 05:43:28 -0300 CLST
+2017/01/17 16:10:12 [I] Configuration Info
+Config files:
+  [0]: /home/niclabs/Prometheus/grafana-2.5.0/conf/defaults.ini
+Paths:
+  home: /home/niclabs/Prometheus/grafana-2.5.0
+  data: /home/niclabs/Prometheus/grafana-2.5.0/data
+  logs: /home/niclabs/Prometheus/grafana-2.5.0/data/log
+
+2017/01/17 16:10:12 [I] Database: sqlite3
+2017/01/17 16:10:12 [I] Migrator: Starting DB migration
+2017/01/17 16:10:12 [I] Listen: http://0.0.0.0:3000

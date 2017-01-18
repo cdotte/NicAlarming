@@ -1,0 +1,140 @@
+2017/01/18 12:38:42 [I] Received signal interrupt. shutting down
+2017/01/18 12:38:50 [I] Starting Grafana
+2017/01/18 12:38:50 [I] Version: 2.5.0, Commit: v2.5.0+1-g287d8ca, Build date: 2015-10-28 05:43:28 -0300 CLST
+2017/01/18 12:38:50 [I] Configuration Info
+Config files:
+  [0]: /home/niclabs/Prometheus/grafana-2.5.0/conf/defaults.ini
+Paths:
+  home: /home/niclabs/Prometheus/grafana-2.5.0
+  data: /home/niclabs/Prometheus/grafana-2.5.0/data
+  logs: /home/niclabs/Prometheus/grafana-2.5.0/data/log
+
+2017/01/18 12:38:50 [I] Database: sqlite3
+2017/01/18 12:38:50 [I] Migrator: Starting DB migration
+2017/01/18 12:38:50 [I] Listen: http://0.0.0.0:3000
+2017/01/18 14:16:27 [I] Received signal terminated. shutting down
+2017/01/18 14:31:39 [I] Starting Grafana
+2017/01/18 14:31:39 [I] Version: 2.5.0, Commit: v2.5.0+1-g287d8ca, Build date: 2015-10-28 05:43:28 -0300 CLST
+2017/01/18 14:31:39 [I] Configuration Info
+Config files:
+  [0]: /home/niclabs/Prometheus/grafana/conf/defaults.ini
+Paths:
+  home: /home/niclabs/Prometheus/grafana
+  data: /home/niclabs/Prometheus/grafana/data
+  logs: /home/niclabs/Prometheus/grafana/data/log
+
+2017/01/18 14:31:39 [I] Database: sqlite3
+2017/01/18 14:31:39 [I] Migrator: Starting DB migration
+2017/01/18 14:31:39 [I] Listen: http://0.0.0.0:3000
+2017/01/18 14:33:09 [I] Received signal interrupt. shutting down
+2017/01/18 14:34:06 [I] Starting Grafana
+2017/01/18 14:34:06 [I] Version: 2.5.0, Commit: v2.5.0+1-g287d8ca, Build date: 2015-10-28 05:43:28 -0300 CLST
+2017/01/18 14:34:06 [I] Configuration Info
+Config files:
+  [0]: /home/niclabs/Prometheus/grafana/conf/defaults.ini
+Paths:
+  home: /home/niclabs/Prometheus/grafana
+  data: /home/niclabs/Prometheus/grafana/data
+  logs: /home/niclabs/Prometheus/grafana/data/log
+
+2017/01/18 14:34:06 [I] Database: sqlite3
+2017/01/18 14:34:06 [I] Migrator: Starting DB migration
+2017/01/18 14:34:06 [I] Listen: http://0.0.0.0:3000
+2017/01/18 14:37:56 [I] Received signal terminated. shutting down
+2017/01/18 14:38:22 [I] Starting Grafana
+2017/01/18 14:38:22 [I] Version: 2.5.0, Commit: v2.5.0+1-g287d8ca, Build date: 2015-10-28 05:43:28 -0300 CLST
+2017/01/18 14:38:22 [I] Configuration Info
+Config files:
+  [0]: /home/niclabs/Prometheus/grafana/conf/defaults.ini
+Paths:
+  home: /home/niclabs/Prometheus/grafana
+  data: /home/niclabs/Prometheus/grafana/data
+  logs: /home/niclabs/Prometheus/grafana/data/log
+
+2017/01/18 14:38:22 [I] Database: sqlite3
+2017/01/18 14:38:22 [I] Migrator: Starting DB migration
+2017/01/18 14:38:22 [I] Listen: http://0.0.0.0:3000
+2017/01/18 14:38:45 [I] Received signal terminated. shutting down
+2017/01/18 14:39:58 [I] Starting Grafana
+2017/01/18 14:39:58 [I] Version: 2.5.0, Commit: v2.5.0+1-g287d8ca, Build date: 2015-10-28 05:43:28 -0300 CLST
+2017/01/18 14:39:58 [I] Configuration Info
+Config files:
+  [0]: /home/niclabs/Prometheus/grafana/conf/defaults.ini
+Paths:
+  home: /home/niclabs/Prometheus/grafana
+  data: /home/niclabs/Prometheus/grafana/data
+  logs: /home/niclabs/Prometheus/grafana/data/log
+
+2017/01/18 14:39:58 [I] Database: sqlite3
+2017/01/18 14:39:58 [I] Migrator: Starting DB migration
+2017/01/18 14:39:58 [I] Listen: http://0.0.0.0:3000
+2017/01/18 14:40:12 [I] Received signal interrupt. shutting down
+2017/01/18 14:41:01 [I] Starting Grafana
+2017/01/18 14:41:01 [I] Version: 2.5.0, Commit: v2.5.0+1-g287d8ca, Build date: 2015-10-28 05:43:28 -0300 CLST
+2017/01/18 14:41:01 [I] Configuration Info
+Config files:
+  [0]: /home/niclabs/Prometheus/grafana/conf/defaults.ini
+Paths:
+  home: /home/niclabs/Prometheus/grafana
+  data: /home/niclabs/Prometheus/grafana/data
+  logs: /home/niclabs/Prometheus/grafana/data/log
+
+2017/01/18 14:41:01 [I] Database: sqlite3
+2017/01/18 14:41:01 [I] Migrator: Starting DB migration
+2017/01/18 14:41:01 [I] Listen: http://0.0.0.0:3000
+2017/01/18 14:41:28 [I] Received signal interrupt. shutting down
+2017/01/18 14:42:29 [I] Starting Grafana
+2017/01/18 14:42:29 [I] Version: 2.5.0, Commit: v2.5.0+1-g287d8ca, Build date: 2015-10-28 05:43:28 -0300 CLST
+2017/01/18 14:42:29 [I] Configuration Info
+Config files:
+  [0]: /home/niclabs/Prometheus/grafana/conf/defaults.ini
+Paths:
+  home: /home/niclabs/Prometheus/grafana
+  data: /home/niclabs/Prometheus/grafana/data
+  logs: /home/niclabs/Prometheus/grafana/data/log
+
+2017/01/18 14:42:29 [I] Database: sqlite3
+2017/01/18 14:42:29 [I] Migrator: Starting DB migration
+2017/01/18 14:42:29 [I] Listen: http://0.0.0.0:3000
+2017/01/18 14:44:57 [I] Received signal interrupt. shutting down
+2017/01/18 14:45:07 [I] Starting Grafana
+2017/01/18 14:45:07 [I] Version: 2.5.0, Commit: v2.5.0+1-g287d8ca, Build date: 2015-10-28 05:43:28 -0300 CLST
+2017/01/18 14:45:07 [I] Configuration Info
+Config files:
+  [0]: /home/niclabs/Prometheus/grafana/conf/defaults.ini
+Paths:
+  home: /home/niclabs/Prometheus/grafana
+  data: /home/niclabs/Prometheus/grafana/data
+  logs: /home/niclabs/Prometheus/grafana/data/log
+
+2017/01/18 14:45:07 [I] Database: sqlite3
+2017/01/18 14:45:07 [I] Migrator: Starting DB migration
+2017/01/18 14:45:07 [I] Listen: http://0.0.0.0:3000
+2017/01/18 14:48:25 [I] Received signal terminated. shutting down
+2017/01/18 14:48:39 [I] Starting Grafana
+2017/01/18 14:48:39 [I] Version: 2.5.0, Commit: v2.5.0+1-g287d8ca, Build date: 2015-10-28 05:43:28 -0300 CLST
+2017/01/18 14:48:39 [I] Configuration Info
+Config files:
+  [0]: /home/niclabs/Prometheus/grafana/conf/defaults.ini
+Paths:
+  home: /home/niclabs/Prometheus/grafana
+  data: /home/niclabs/Prometheus/grafana/data
+  logs: /home/niclabs/Prometheus/grafana/data/log
+
+2017/01/18 14:48:39 [I] Database: sqlite3
+2017/01/18 14:48:39 [I] Migrator: Starting DB migration
+2017/01/18 14:48:39 [I] Listen: http://0.0.0.0:3000
+2017/01/18 14:50:26 [I] Received signal terminated. shutting down
+2017/01/18 14:51:14 [I] Starting Grafana
+2017/01/18 14:51:14 [I] Version: 2.5.0, Commit: v2.5.0+1-g287d8ca, Build date: 2015-10-28 05:43:28 -0300 CLST
+2017/01/18 14:51:14 [I] Configuration Info
+Config files:
+  [0]: /home/niclabs/Prometheus/grafana/conf/defaults.ini
+Paths:
+  home: /home/niclabs/Prometheus/grafana
+  data: /home/niclabs/Prometheus/grafana/data
+  logs: /home/niclabs/Prometheus/grafana/data/log
+
+2017/01/18 14:51:14 [I] Database: sqlite3
+2017/01/18 14:51:14 [I] Migrator: Starting DB migration
+2017/01/18 14:51:14 [I] Listen: http://0.0.0.0:3000
