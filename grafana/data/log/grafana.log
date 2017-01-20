@@ -2908,3 +2908,181 @@
 2017/01/20 11:38:45 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 373.78µs
 2017/01/20 11:38:45 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 5.261082ms
 2017/01/20 11:38:45 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 420.543µs
+2017/01/20 11:40:56 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 3.006024ms
+2017/01/20 11:42:57 [I] Received signal terminated. shutting down
+2017/01/20 12:00:20 [I] Starting Grafana
+2017/01/20 12:00:20 [I] Version: 2.5.0, Commit: v2.5.0+1-g287d8ca, Build date: 2015-10-28 05:43:28 -0300 CLST
+2017/01/20 12:00:20 [I] Configuration Info
+Config files:
+  [0]: /home/niclabs/Prometheus/grafana/conf/defaults.ini
+Paths:
+  home: /home/niclabs/Prometheus/grafana
+  data: /home/niclabs/Prometheus/grafana/data
+  logs: /home/niclabs/Prometheus/grafana/data/log
+
+2017/01/20 12:00:20 [I] Database: sqlite3
+2017/01/20 12:00:20 [I] Migrator: Starting DB migration
+2017/01/20 12:00:21 [I] Listen: http://0.0.0.0:3000
+2017/01/20 12:00:29 [I] Received signal interrupt. shutting down
+2017/01/20 12:00:55 [I] Starting Grafana
+2017/01/20 12:00:55 [I] Version: 2.5.0, Commit: v2.5.0+1-g287d8ca, Build date: 2015-10-28 05:43:28 -0300 CLST
+2017/01/20 12:00:55 [I] Configuration Info
+Config files:
+  [0]: /home/niclabs/Prometheus/grafana/conf/defaults.ini
+Paths:
+  home: /home/niclabs/Prometheus/grafana
+  data: /home/niclabs/Prometheus/grafana/data
+  logs: /home/niclabs/Prometheus/grafana/data/log
+
+2017/01/20 12:00:55 [I] Database: sqlite3
+2017/01/20 12:00:55 [I] Migrator: Starting DB migration
+2017/01/20 12:00:55 [I] Listen: http://0.0.0.0:3000
+2017/01/20 12:01:16 [I] Received signal terminated. shutting down
+2017/01/20 12:01:30 [I] Starting Grafana
+2017/01/20 12:01:30 [I] Version: 2.5.0, Commit: v2.5.0+1-g287d8ca, Build date: 2015-10-28 05:43:28 -0300 CLST
+2017/01/20 12:01:30 [I] Configuration Info
+Config files:
+  [0]: /home/niclabs/Prometheus/grafana/conf/defaults.ini
+Paths:
+  home: /home/niclabs/Prometheus/grafana
+  data: /home/niclabs/Prometheus/grafana/data
+  logs: /home/niclabs/Prometheus/grafana/data/log
+
+2017/01/20 12:01:30 [I] Database: sqlite3
+2017/01/20 12:01:30 [I] Migrator: Starting DB migration
+2017/01/20 12:01:30 [I] Listen: http://0.0.0.0:3000
+2017/01/20 12:02:15 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 276.852µs
+2017/01/20 12:02:15 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 323.687µs
+2017/01/20 12:02:15 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 396.638µs
+2017/01/20 12:02:15 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 363.482µs
+2017/01/20 12:02:15 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 317.713µs
+2017/01/20 12:02:15 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 391.571µs
+2017/01/20 12:02:15 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 345.815µs
+2017/01/20 12:02:15 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 331.505µs
+2017/01/20 12:02:15 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 326.415µs
+2017/01/20 12:02:15 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 376.247µs
+2017/01/20 12:02:15 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 393.855µs
+2017/01/20 12:02:15 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 622.351µs
+2017/01/20 12:03:45 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 6.43186ms
+2017/01/20 12:03:45 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 6.447431ms
+2017/01/20 12:04:25 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 9.182321ms
+2017/01/20 12:04:25 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 10.371179ms
+2017/01/20 12:04:25 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 576.879µs
+2017/01/20 12:04:25 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 834.19µs
+2017/01/20 12:04:25 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 671.872µs
+2017/01/20 12:04:25 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 462.283µs
+2017/01/20 12:04:25 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 431.028µs
+2017/01/20 12:06:16 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 413.056µs
+2017/01/20 12:07:36 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 13.854482ms
+2017/01/20 12:11:36 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 152.237806ms
+2017/01/20 12:11:36 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 100.662149ms
+2017/01/20 12:11:36 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 100.656337ms
+2017/01/20 12:11:46 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 49.355537ms
+2017/01/20 12:11:46 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 12.555191ms
+2017/01/20 12:11:46 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 139.276614ms
+2017/01/20 12:11:46 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 92.392978ms
+2017/01/20 12:11:46 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 141.629057ms
+2017/01/20 12:11:46 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 149.049602ms
+2017/01/20 12:11:46 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 128.250278ms
+2017/01/20 12:11:46 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 83.877143ms
+2017/01/20 12:11:46 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 72.561061ms
+2017/01/20 12:11:46 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 84.686803ms
+2017/01/20 12:11:46 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 84.628452ms
+2017/01/20 12:11:46 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 84.735684ms
+2017/01/20 12:11:46 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 35.808226ms
+2017/01/20 12:12:06 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 256.935µs
+2017/01/20 12:14:06 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 29.878868ms
+2017/01/20 12:14:06 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 30.116868ms
+2017/01/20 12:14:06 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 30.33605ms
+2017/01/20 12:14:06 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 36.413803ms
+2017/01/20 12:14:06 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 36.740532ms
+2017/01/20 12:14:26 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 20.856527ms
+2017/01/20 12:14:26 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 9.325843ms
+2017/01/20 12:14:46 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 118.131301ms
+2017/01/20 12:14:46 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 130.108838ms
+2017/01/20 12:14:46 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 263.861µs
+2017/01/20 12:14:56 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 4.84198ms
+2017/01/20 12:15:47 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 51.594788ms
+2017/01/20 12:15:47 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 65.977437ms
+2017/01/20 12:16:27 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 107.946284ms
+2017/01/20 12:16:37 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 343.680215ms
+2017/01/20 12:16:37 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 77.99922ms
+2017/01/20 12:17:27 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 333.096µs
+2017/01/20 12:17:27 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 281.212µs
+2017/01/20 12:17:27 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 272.484µs
+2017/01/20 12:17:27 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 284.669µs
+2017/01/20 12:17:27 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 312.87µs
+2017/01/20 12:17:27 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 399.72µs
+2017/01/20 12:17:27 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 378.813µs
+2017/01/20 12:17:27 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 910.516µs
+2017/01/20 12:17:27 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 284.451µs
+2017/01/20 12:17:27 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 696.274µs
+2017/01/20 12:17:27 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 727.496µs
+2017/01/20 12:17:27 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 371.195µs
+2017/01/20 12:17:27 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 1.259527ms
+2017/01/20 12:18:37 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 665.921µs
+2017/01/20 12:21:17 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 342.151µs
+2017/01/20 12:21:17 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 419.226µs
+2017/01/20 12:21:17 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 405.141µs
+2017/01/20 12:21:17 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 322.867µs
+2017/01/20 12:21:17 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 316.374µs
+2017/01/20 12:21:17 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 428.094µs
+2017/01/20 12:21:17 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 355.368µs
+2017/01/20 12:21:17 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 315.941µs
+2017/01/20 12:21:17 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 611.058µs
+2017/01/20 12:21:17 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 438.523µs
+2017/01/20 12:21:17 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 472.86µs
+2017/01/20 12:21:17 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 418.383µs
+2017/01/20 12:21:17 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 316.418µs
+2017/01/20 12:21:17 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 357.467µs
+2017/01/20 12:21:17 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 379.901µs
+2017/01/20 12:21:57 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 339.635µs
+2017/01/20 12:21:57 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 343.671µs
+2017/01/20 12:21:57 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 385.619µs
+2017/01/20 12:21:57 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 294.613µs
+2017/01/20 12:21:57 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 401.876µs
+2017/01/20 12:21:57 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 297.566µs
+2017/01/20 12:21:57 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 350.533µs
+2017/01/20 12:21:57 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 291.163µs
+2017/01/20 12:21:57 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 417.036µs
+2017/01/20 12:21:57 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 291.182µs
+2017/01/20 12:21:57 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 288.695µs
+2017/01/20 12:21:57 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 324.067µs
+2017/01/20 12:21:57 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 485.545µs
+2017/01/20 12:23:47 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 358.393µs
+2017/01/20 12:23:47 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 450.37µs
+2017/01/20 12:23:47 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 336.618µs
+2017/01/20 12:23:47 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 334.819µs
+2017/01/20 12:23:47 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 347.336µs
+2017/01/20 12:23:47 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 305.847µs
+2017/01/20 12:23:47 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 430.779µs
+2017/01/20 12:23:47 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 389.524µs
+2017/01/20 12:23:47 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 362.012µs
+2017/01/20 12:23:47 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 335.497µs
+2017/01/20 12:23:47 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 333.156µs
+2017/01/20 12:23:47 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 304.029µs
+2017/01/20 12:23:47 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 341.429µs
+2017/01/20 12:23:47 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 302.77µs
+2017/01/20 12:23:47 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 312.205µs
+2017/01/20 12:24:07 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 370.89µs
+2017/01/20 12:24:07 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 348.829µs
+2017/01/20 12:24:07 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 302.653µs
+2017/01/20 12:24:07 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 320.549µs
+2017/01/20 12:34:28 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 659.45µs
+2017/01/20 12:34:28 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 343.412µs
+2017/01/20 12:34:28 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 354.532µs
+2017/01/20 12:34:28 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 325.421µs
+2017/01/20 12:34:28 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 382.053µs
+2017/01/20 12:34:28 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 415.532µs
+2017/01/20 12:34:28 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 312.001µs
+2017/01/20 12:34:28 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 375.725µs
+2017/01/20 12:34:28 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 434.346µs
+2017/01/20 12:34:28 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 4.564064ms
+2017/01/20 12:35:08 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 9.324041ms
+2017/01/20 12:37:48 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 389.216µs
+2017/01/20 12:37:48 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 403.816µs
+2017/01/20 12:38:29 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 458.567µs
+2017/01/20 12:38:29 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 344.285µs
+2017/01/20 12:38:29 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 351.177µs
+2017/01/20 12:38:29 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 290.738µs
+2017/01/20 12:40:39 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 349.864µs
