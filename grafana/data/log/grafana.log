@@ -3131,3 +3131,6 @@ Paths:
 2017/01/20 12:51:29 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 275.14µs
 2017/01/20 12:51:29 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 1.872428ms
 2017/01/20 12:51:29 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 14.821566ms
+2017/01/20 12:52:39 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 659.104µs
+2017/01/20 12:52:39 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 673.193µs
+2017/01/20 12:54:59 [I] Completed /api/datasources/proxy/1/api/v1/query_range 401 Unauthorized in 1.72427ms
